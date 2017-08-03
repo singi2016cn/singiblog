@@ -1,0 +1,759 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2017-07-07 06:07+0000\n"
+"POT-Revision-Date: Mon May 22 2017 13:23:40 GMT+0800 (CST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:16 404.php:17 404.php:18
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"The page you were looking for wasn't found, if you think this might be a "
+"mistake drop us a line"
+msgstr ""
+
+#: author-bio.php:11
+#, php-format
+msgid "Published by %s"
+msgstr ""
+
+#: author-bio.php:22
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: author.php:24
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: category.php:13
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: category.php:23
+msgid "All"
+msgstr ""
+
+#: category.php:37
+msgid "No categories"
+msgstr ""
+
+#: comments.php:44
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comments.php:45
+msgid " | edit"
+msgstr ""
+
+#: comments.php:57
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:82
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:89 comments.php:108
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:90 comments.php:109
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:91 comments.php:110
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:117
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:11
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:15
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-quote.php:18 page.php:34 single.php:33 tmpl-no_sidebar.php:36
+msgid "Pages: "
+msgstr ""
+
+#: footer.php:16
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:16
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: page.php:41 single.php:51 tmpl-no_sidebar.php:43
+msgid "Edit"
+msgstr ""
+
+#: partials-entry_meta.php:22
+msgid "By: "
+msgstr ""
+
+#: partials-entry_meta.php:25
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: partials-entry_meta.php:49
+msgid "No Comments"
+msgstr ""
+
+#: partials-entry_meta.php:50
+msgid "1 Comment"
+msgstr ""
+
+#: partials-entry_meta.php:51
+msgid "% Comments"
+msgstr ""
+
+#: partials-search_header.php:11
+msgid "Type search and hit enter"
+msgstr ""
+
+#: search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:16
+msgid "Enter your search term..."
+msgstr ""
+
+#: search.php:17
+msgid "Search"
+msgstr ""
+
+#: single.php:47
+msgid "Tags"
+msgstr ""
+
+#: single.php:61
+msgid "&larr; Previous Post"
+msgstr ""
+
+#: single.php:64
+msgid "Next Post &rarr;"
+msgstr ""
+
+#: tag.php:13
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#. Name of the template
+msgid "Blog No SideBar"
+msgstr ""
+
+#. Name of the template
+msgid "Blog SideBar"
+msgstr ""
+
+#. Name of the template
+msgid "Contact"
+msgstr ""
+
+#: tmpl-contact.php:21
+msgid "SEO San Francisco, CA, Gough Street, San Francisco, CA"
+msgstr ""
+
+#. Name of the template
+msgid "Page No SideBar"
+msgstr ""
+
+#: includes/theme/comment.php:57
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: includes/theme/comment.php:68
+msgid "Name"
+msgstr ""
+
+#: includes/theme/comment.php:73
+msgid "Email"
+msgstr ""
+
+#: includes/theme/comment.php:78 includes/theme/customize-controls.php:737
+msgid "Website"
+msgstr ""
+
+#: includes/theme/comment.php:88
+msgid "Comment"
+msgstr ""
+
+#: includes/theme/comment.php:94
+msgid "You must be"
+msgstr ""
+
+#: includes/theme/comment.php:94
+msgid "logged in"
+msgstr ""
+
+#: includes/theme/comment.php:94
+msgid "to post a comment"
+msgstr ""
+
+#: includes/theme/comment.php:97
+msgid "Logged in as"
+msgstr ""
+
+#: includes/theme/comment.php:98
+msgid "Log out of this account"
+msgstr ""
+
+#: includes/theme/comment.php:98
+msgid "Log out"
+msgstr ""
+
+#: includes/theme/comment.php:102
+msgid "Your email address will not be published."
+msgstr ""
+
+#: includes/theme/comment.php:113
+msgid "Leave a Reply"
+msgstr ""
+
+#: includes/theme/comment.php:114
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: includes/theme/comment.php:115
+msgid "Cancel reply"
+msgstr ""
+
+#: includes/theme/comment.php:116
+msgid "Post Comment"
+msgstr ""
+
+#: includes/theme/customize-controls.php:63
+msgid "General"
+msgstr ""
+
+#: includes/theme/customize-controls.php:78
+msgid "Logo"
+msgstr ""
+
+#: includes/theme/customize-controls.php:79
+msgid ""
+"Upload your site logo to the server. The max height for photos in this theme "
+"view is <strong>50</strong> pixels."
+msgstr ""
+
+#: includes/theme/customize-controls.php:95
+msgid "Blog Settings"
+msgstr ""
+
+#: includes/theme/customize-controls.php:106
+msgid "Limit the Number of Words in Excerpt"
+msgstr ""
+
+#: includes/theme/customize-controls.php:107
+msgid ""
+"If the post has not a custom excerpt or does not contain &lt;!--more--&gt; "
+"tag, then it'll automatically generate an excerpt with limit number of words."
+msgstr ""
+
+#: includes/theme/customize-controls.php:119
+msgid "Blog Layout"
+msgstr ""
+
+#: includes/theme/customize-controls.php:142
+msgid "Styling"
+msgstr ""
+
+#: includes/theme/customize-controls.php:152
+msgid "Paging Navigation"
+msgstr ""
+
+#: includes/theme/customize-controls.php:168
+msgid "Numeric Pagination"
+msgstr ""
+
+#: includes/theme/customize-controls.php:169
+msgid "If this option turned on, the post list will use numeric pagination."
+msgstr ""
+
+#: includes/theme/customize-controls.php:187
+msgid "Google Map"
+msgstr ""
+
+#: includes/theme/customize-controls.php:203
+msgid "Map Style"
+msgstr ""
+
+#: includes/theme/customize-controls.php:204
+msgid ""
+"You can make a search, use the name of a place, city, state, or address, or "
+"click the location on the map to get lat long coordinates. &rarr; <a "
+"href=\"//www.latlong.net/\" target=\"_blank\">Get Latitude Longitude</a>"
+msgstr ""
+
+#: includes/theme/customize-controls.php:226
+msgid "Place Name"
+msgstr ""
+
+#: includes/theme/customize-controls.php:236
+msgid "Latitude"
+msgstr ""
+
+#: includes/theme/customize-controls.php:247
+msgid "Longitude"
+msgstr ""
+
+#: includes/theme/customize-controls.php:258
+msgid "Zoom"
+msgstr ""
+
+#: includes/theme/customize-controls.php:274
+msgid "Map Height"
+msgstr ""
+
+#: includes/theme/customize-controls.php:275
+msgid ""
+"It default to using a 100% width. The height pixel (px) unit is adjustable."
+msgstr ""
+
+#: includes/theme/customize-controls.php:284
+msgid "Marker"
+msgstr ""
+
+#: includes/theme/customize-controls.php:285
+msgid ""
+"By default, a marker uses a standard image. Markers can display custom "
+"images, in which case they are usually referred to as \"icons.\""
+msgstr ""
+
+#: includes/theme/customize-controls.php:303
+msgid "Fonts"
+msgstr ""
+
+#: includes/theme/customize-controls.php:315
+msgid "Body"
+msgstr ""
+
+#: includes/theme/customize-controls.php:332
+#: includes/theme/customize-controls.php:416
+#: includes/theme/customize-controls.php:458
+msgid "Font Family"
+msgstr ""
+
+#: includes/theme/customize-controls.php:356
+msgid "Heading"
+msgstr ""
+
+#: includes/theme/customize-controls.php:373
+msgid "HTML Headings"
+msgstr ""
+
+#: includes/theme/customize-controls.php:374
+msgid "With the following tags: h1 , h2 , h3 , h4 , h5 , and h6."
+msgstr ""
+
+#: includes/theme/customize-controls.php:399
+msgid "Menu"
+msgstr ""
+
+#: includes/theme/customize-controls.php:441
+msgid "Brand"
+msgstr ""
+
+#: includes/theme/customize-controls.php:483
+msgid "Social Links"
+msgstr ""
+
+#: includes/theme/customize-controls.php:501
+msgid "Add social media icons to your website or blog. For example,"
+msgstr ""
+
+#: includes/theme/customize-controls.php:510
+msgid "Twitter"
+msgstr ""
+
+#: includes/theme/customize-controls.php:511
+msgid "Your Twitter Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:520
+msgid "Facebook"
+msgstr ""
+
+#: includes/theme/customize-controls.php:521
+msgid "Your Facebook Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:530
+msgid "Google+"
+msgstr ""
+
+#: includes/theme/customize-controls.php:531
+msgid "Your Google+ Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:540
+msgid "Medium"
+msgstr ""
+
+#: includes/theme/customize-controls.php:541
+msgid "Your Medium Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:551
+msgid "Product Hunt"
+msgstr ""
+
+#: includes/theme/customize-controls.php:552
+msgid "Your Product Hunt Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:561
+msgid "Last.fm"
+msgstr ""
+
+#: includes/theme/customize-controls.php:562
+msgid "Your Last.fm Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:571
+msgid "SoundCloud"
+msgstr ""
+
+#: includes/theme/customize-controls.php:572
+msgid "Your SoundCloud Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:581
+msgid "Dropbox"
+msgstr ""
+
+#: includes/theme/customize-controls.php:582
+msgid "Your Dropbox Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:592
+msgid "Dribbble"
+msgstr ""
+
+#: includes/theme/customize-controls.php:593
+msgid "Your Dribbble Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:602
+msgid "Pinterest"
+msgstr ""
+
+#: includes/theme/customize-controls.php:603
+msgid "Your Pinterest Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:612
+msgid "Behance"
+msgstr ""
+
+#: includes/theme/customize-controls.php:613
+msgid "Your Behance Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:622
+msgid "Deviantart"
+msgstr ""
+
+#: includes/theme/customize-controls.php:623
+msgid "Your Deviantart Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:632
+msgid "Flickr"
+msgstr ""
+
+#: includes/theme/customize-controls.php:633
+msgid "Your Flickr Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:642
+msgid "Github"
+msgstr ""
+
+#: includes/theme/customize-controls.php:643
+msgid "Your Github Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:653
+msgid "Instagram"
+msgstr ""
+
+#: includes/theme/customize-controls.php:654
+msgid "Your Instagram Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:664
+msgid "Linkedin"
+msgstr ""
+
+#: includes/theme/customize-controls.php:665
+msgid "Your Linkedin Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:674
+msgid "Digg"
+msgstr ""
+
+#: includes/theme/customize-controls.php:675
+msgid "Your Digg Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:685
+msgid "Tumblr"
+msgstr ""
+
+#: includes/theme/customize-controls.php:686
+msgid "Your Tumblr Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:695
+msgid "Youtube"
+msgstr ""
+
+#: includes/theme/customize-controls.php:696
+msgid "Your Youtube Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:705
+msgid "Vimeo"
+msgstr ""
+
+#: includes/theme/customize-controls.php:706
+msgid "Your Vimeo Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:715
+msgid "Reddit"
+msgstr ""
+
+#: includes/theme/customize-controls.php:716
+msgid "Your Reddit Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:726
+msgid "Weibo"
+msgstr ""
+
+#: includes/theme/customize-controls.php:727
+msgid "Your Weibo Page URL"
+msgstr ""
+
+#: includes/theme/customize-controls.php:738
+msgid "Your Website URL"
+msgstr ""
+
+#: includes/theme/features.php:73
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/theme/features.php:74
+msgid "Footer Navigation"
+msgstr ""
+
+#: includes/theme/widgets.php:24
+msgid "Primary Sidebar"
+msgstr ""
+
+#: includes/theme/widgets.php:26
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: includes/theme/widgets.php:36
+msgid "Homepage Advertising"
+msgstr ""
+
+#: includes/theme/widgets.php:38
+msgid "Widgets in this area are used in footer for homepage."
+msgstr ""
+
+#: includes/theme/widgets.php:75 includes/theme/widgets.php:77
+msgid "Widget ID is: "
+msgstr ""
+
+#: includes/theme/widgets.php:75
+msgid "Please save the widget first!"
+msgstr ""
+
+#: includes/admin/pro/class-customize.php:86
+msgid "Pro Version"
+msgstr ""
+
+#: includes/admin/pro/class-customize.php:87
+msgid "Check out"
+msgstr ""
+
+#: includes/classes/widgets/class-widget-category.php:18
+msgid "A list or dropdown of categories"
+msgstr ""
+
+#: includes/classes/widgets/class-widget-category.php:20
+#: includes/classes/widgets/class-widget-category.php:25
+msgid "Categories"
+msgstr ""
+
+#: includes/classes/widgets/class-widget-category.php:36
+msgid "Select Category"
+msgstr ""
+
+#: includes/classes/widgets/class-widget-category.php:72
+#: includes/classes/widgets/class-widget-recentpost.php:143
+#: includes/classes/widgets/class-widget-socialMedia-buttons.php:75
+msgid "Title:"
+msgstr ""
+
+#: includes/classes/widgets/class-widget-category.php:78
+msgid "Display as dropdown"
+msgstr ""
+
+#: includes/classes/widgets/class-widget-category.php:82
+msgid "Show post counts"
+msgstr ""
+
+#: includes/classes/widgets/class-widget-category.php:86
+msgid "Show hierarchy"
+msgstr ""
+
+#: includes/classes/widgets/class-widget-recentpost.php:22
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: includes/classes/widgets/class-widget-recentpost.php:25
+#: includes/classes/widgets/class-widget-recentpost.php:42
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/classes/widgets/class-widget-recentpost.php:148
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/classes/widgets/class-widget-recentpost.php:154
+msgid "Display post date?"
+msgstr ""
+
+#: includes/classes/widgets/class-widget-search.php:24
+msgid "Search for:"
+msgstr ""
+
+#: includes/classes/widgets/class-widget-search.php:25
+msgid "Search &hellip;"
+msgstr ""
+
+#: includes/classes/widgets/class-widget-socialMedia-buttons.php:19
+msgid "Add social media buttons for your site."
+msgstr ""
+
+#: includes/classes/widgets/class-widget-socialMedia-buttons.php:22
+msgid "Social Media Buttons"
+msgstr ""
+
+#: includes/classes/widgets/class-widget-socialMedia-buttons.php:33
+#: includes/classes/widgets/class-widget-socialMedia-buttons.php:72
+msgid "Follow Us"
+msgstr ""
+
+#: includes/classes/widgets/class-widget-socialMedia-buttons.php:78
+#, php-format
+msgid ""
+"Edit your social media buttons by going to <a href=\"%1$s\"><strong>"
+"Appearance &raquo; Customize</strong></a>."
+msgstr ""
+
+#: includes/functions/internal/comment-reply.php:35
+msgid "Reply"
+msgstr ""
+
+#: includes/functions/internal/get-excerpt.php:14
+msgid "Continue Reading"
+msgstr ""
+
+#: includes/functions/internal/get-excerpt.php:62
+msgid "Continue reading"
+msgstr ""
+
+#: includes/functions/internal/minimum-requirements.php:30
+#, php-format
+msgid ""
+"You're running WordPress on PHP version %s. Please contact your hosting "
+"company and updgrade PHP to 5.3 or above."
+msgstr ""
+
+#. Name of the theme
+msgid "Shadower"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Shadower is a beautiful and full responsive blog WordPress theme for "
+"displaying topics and artworks. It is easy to use and customize, with a "
+"clean, simple, and modern design, perfect for bloggers. Theme has many other "
+"customisation options too, including changing the typography, layout, "
+"widgets, advertising, slides and so on. To suit you and your audience."
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://uiux.cc/wp-themes/shadower/"
+msgstr ""
+
+#. Author of the theme
+msgid "UIUX Lab"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://uiux.cc"
+msgstr ""
