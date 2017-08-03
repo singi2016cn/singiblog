@@ -99,8 +99,8 @@ CREATE TABLE IF NOT EXISTS `s_options` (
 -- 正在导出表  singiblog.s_options 的数据：~145 rows (大约)
 /*!40000 ALTER TABLE `s_options` DISABLE KEYS */;
 INSERT INTO `s_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-	(1, 'siteurl', 'http://singiblog.dev', 'yes'),
-	(2, 'home', 'http://singiblog.dev', 'yes'),
+	(1, 'siteurl', 'http://singiblog.top', 'yes'),
+	(2, 'home', 'http://singiblog.top', 'yes'),
 	(3, 'blogname', 'singiblog', 'yes'),
 	(4, 'blogdescription', '记录编程点滴。', 'yes'),
 	(5, 'users_can_register', '0', 'yes'),
